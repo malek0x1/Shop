@@ -1,0 +1,73 @@
+[
+    {
+        "name":"Solgar Omnium",
+        "image":"https://static1.parafarmacia-online.com/10232-large_default/solgar-omnium-30-tablets.jpg",
+        "price":"10$",
+        "key":1,
+        "desc":"Multinutrient that in addition to vitamins and minerals is rich in phytonutrients such as Powdered broccoli extract, standardised turmeric extract, powdered soya germ extract, polyphenols (green tea, grape seed and pine bark), citrus flavonoids, alpha lipoic acid, CoQ10, phosphatidylserine, quecithin, NAC, powdered D-limonene extract",
+        "qty":0
+    },
+    {
+        "name":"Caudalie Premier",
+        "image":"https://static1.parafarmacia-online.com/12250-large_default/caudalie-premier-cru-the-serum-30ml.jpg",
+        "price":"100$",
+        "key":2,
+        "desc":"PREMIER CRU THE SERUM THE ULTIMATE ANTI-AGEING SERUM Formulated with the patented Vinergy® complex*, this luxurious, gel-like serum intensely revitalises the skin with energy to correct the signs of ageing. The highly concentrated formula boosts the effectiveness of your anti-ageing cream",
+        "qty":0
+
+    },
+    {
+        "name":"PREMIER CRU",
+        "image":"https://static3.parafarmacia-online.com/12251-large_default/caudalie-premier-cru-the-cream-50ml.jpg",
+        "price":"20$",
+        "key":3,
+        "desc":"PREMIER CRU THE CREAM THE 'CRÈME DE LA CRÈME' This luxurious and effective cream delivers the ultimate anti-ageing action for the skin, revealing",
+        "qty":0
+
+    },
+    {
+        "name":"Sesderma Men",
+        "image":"https://static3.parafarmacia-online.com/10989-large_default/sesderma-men-absolut-force-locion-facial-revitalizante-50ml.jpg",
+        "price":"30$",
+        "key":4,
+        "desc":"Sesderma Men Absolut Force Revitalising Face Lotion 50Ml Facial care for men Sesderma Men Revitalising Facial Lotion 50 ml, is a fluid lotion that is quickly absorbed and offers a pleasant orange scent. It reduces the signs of ageing, such as wrinkles, spots, loss of luminosity, flaccidity and lack of smoothness. Especially suitable for men's skin.",
+        "qty":0
+
+    },
+    {
+        "name":"Phytolaque Normal",
+        "image":"https://static1.parafarmacia-online.com/11032-large_default/phytolaque-normal-hair-strong-hold-100ml.jpg",
+        "price":"29$",
+        "key":5,
+        "desc":"Holds the hair without weighing it down, even in humid weather, giving it an incomparable shine. Disciplines the hair without weighing it down, ensuring a perfect result. Directions for use: Spray 15-20 cm of hair, away from any flame. Its ultra-fine texture allows for quick restyling of the hairstyle",
+        "qty":0
+
+    },
+    {
+        "name":"Phytophanere Dietary",
+        "image":"https://static3.parafarmacia-online.com/9610-large_default/phytophanere-dietary-supplement-for-hair-nails-duplo-2x120-caplets.jpg?_ga=2.79452631.2113954279.1650709414-686324973.1650709402",
+        "price":"99$",
+        "key":6,
+        "desc":"Phytophanere Dietary Supplement for Hair & Nails Duplo 2x120 Caplets Phytophanere Dietary Supplement for Hair & Nails Duplo 2x120 Caplets, Dietary Supplement for Hair & Nails",
+        "qty":0
+
+    },
+    {
+        "name":"Lierac Homme",
+        "image":"https://static3.parafarmacia-online.com/12042-large_default/lierac-homme-gel-ducha-integral-200ml.jpg",
+        "price":"8$",
+        "key":7,
+        "desc":"All-round shower gel for men. Suitable for cleansing body, face and hair. Cares for skin and beard at the same time for shiny hair and an extra soft beard",
+        "qty":0
+
+    },
+    {
+        "name":"Phytolaque Normal",
+        "image":"https://static1.parafarmacia-online.com/11032-large_default/phytolaque-normal-hair-strong-hold-100ml.jpg",
+        "price":"29$",
+        "key":8,
+        "desc":"Holds the hair without weighing it down, even in humid weather, giving it an incomparable shine. Disciplines the hair without weighing it down, ensuring a perfect result. Directions for use: Spray 15-20 cm of hair, away from any flame. Its ultra-fine texture allows for quick restyling of the hairstyle",
+        "qty":0
+
+    }
+]

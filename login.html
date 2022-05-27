@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <h2>LOGO</h2>
+      </div>
+      <div class="menu"></div>
+
+      <div class="rightnav">
+        <button onclick="location.href='signup.html';">Sign up</button>
+      </div>
+      <i id="hamburger" onclick="show();" class="fa fa-search"></i>
+    </header>
+
+    <div class="form-container">
+      <form action="">
+        <h1>Login Page</h1>
+        <input
+          type="text"
+          class="username"
+          placeholder="Username"
+          name=""
+          id="form-input"
+        />
+        <input
+          type="text"
+          class="password"
+          placeholder="password"
+          name=""
+          id="form-input"
+        />
+        <button id="submit">Log In</button>
+      </form>
+    </div>
+
+    <script type="module" src="assets/js/login.js"></script>
+  </body>
+</html>
